@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小小表情包</string>
+    <string name="action_settings">关于</string>
+    <string name="tab1">小坏坏</string>
+    <string name="tab2">小猥琐</string>
+    <string name="tab3">小熊猫</string>
+    <string name="tab4">小黄狗</string>
+    <string name="tab5">小猫咪</string>
+    <string name="tab6">御用杂项</string>
+    <string name="dialog_title">表情</string>
+    <string name="dialog_button">分享</string>
+    <string name="intent_mes">分享表情</string>
+    <string name="dialog_mes">分享表情</string>
+    <string name="about_title">关于表情包</string>
+    <string name="about_join">加入</string>
+    <string name="about_bu">确定</string>
+    <string name="about_mes">关于表情包\n该应用由FAN（远方）制作\n这个应用里包含的所有表情皆来自网络\n正如你所看到的这个应用里有为
+        数不多的表情如果你有很多表情的话欢迎分享给我们 你只需要点击下面的加入就能向所有用户分享你的有趣表情\n(｡･∀･)ﾉﾞ</string>
+    <string name="qqkey">mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3Dw3mGp8cKvWUXeqHkGXH8OGetgg7ntQ-6</string>
+    <string name="request_mes">请手动打开储存权限</string>
+    <string name="dialog_save">保存</string>
+    <string name="save_ok">保存成功</string>
+</resources>

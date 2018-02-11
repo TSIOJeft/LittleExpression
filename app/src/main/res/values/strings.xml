@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ExpressionPacks</string>
+    <string name="action_settings">about</string>
+    <string name="tab1">Bad</string>
+    <string name="tab2">Cute</string>
+    <string name="tab3">panda</string>
+    <string name="tab4">Dog</string>
+    <string name="tab5">Cat</string>
+    <string name="tab6">Other</string>
+    <string name="dialog_title">Expression</string>
+    <string name="dialog_button">share</string>
+    <string name="intent_mes">share Expression</string>
+    <string name="dialog_mes">Share Expression</string>
+    <string name="about_title">About</string>
+    <string name="about_join">join</string>
+    <string name="about_bu">Know</string>
+    <string name="about_mes">About Expression Packs \ n This application is built by FAN (远方)\ n All the expressions contained in this app come from the web. \ N As you can see in this app,
+        Few facial expressions If you have many facial expressions, please feel free to share with us. You can share your funny facial expressions with all users by clicking the button below\n(｡･∀･)ﾉﾞ</string>
+    <string name="qqkey">mqqopensdkapi://bizAgent/qm/qr?url=http%3A%2F%2Fqm.qq.com%2Fcgi-bin%2Fqm%2Fqr%3Ffrom%3Dapp%26p%3Dandroid%26k%3Dw3mGp8cKvWUXeqHkGXH8OGetgg7ntQ-6</string>
+    <string name="request_mes">the permission is failed!</string>
+    <string name="dialog_save">save</string>
+    <string name="save_ok">save succeed</string>
+</resources>
